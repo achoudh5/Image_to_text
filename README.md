@@ -2,3 +2,5 @@
 Read text from image and translate to language chosen
 
 # Open Project, start with your imagination
+
+# Create PR and grab a tee :)
